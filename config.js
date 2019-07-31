@@ -40,7 +40,7 @@ const config = {
     title: "Adem Caglin",
     description: "Adem Caglin",
     ogImage: null,
-    docsLocation: "https://github.com/ademcaglin/ademcaglin.github.io/content/",
+    docsLocation: "https://github.com/ademcaglin/ademcaglin.github.io/tree/develop/content",
     favicon: "https://avatars1.githubusercontent.com/u/14217407?v=4"
   }
 };
