@@ -89,7 +89,7 @@ const Header = ({ location }) => (
                 <Sidebar location={location} />
                 <hr />
               </div>
-              <ul className={"nav navbar-nav navBarUL"} />}
+              <ul className={"nav navbar-nav navBarUL"} />
               <ul className={"nav navbar-nav navBarUL navbar-right"}>
                 {tweetText !== "" ? (
                   <li>
